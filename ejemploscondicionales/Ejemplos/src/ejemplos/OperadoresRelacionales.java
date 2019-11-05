@@ -12,8 +12,9 @@ package ejemplos;
 public class OperadoresRelacionales {
 
     public static void main(String[] args) {
-        int valorA = 10;
-        int valorB = 2;
+        int valorA = 11;
+        int valorB = 13;
+        
 
         System.out.printf("Igualdad: %d == %d = %s\n", valorA, valorB,
                 valorA == valorB);

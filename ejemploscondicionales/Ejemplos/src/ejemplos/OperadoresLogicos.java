@@ -21,6 +21,16 @@ public class OperadoresLogicos {
                 valorA & valorB);
         System.out.printf("And: %s | %s = %s\n", valorA, valorB, 
                 valorA | valorB);
+        
+       //V and F = F
+       //V and V = V
+       //F and F = F
+       //F and V = F
+       //V or V = V
+       //V or F = V
+       //F or V = V
+       //f or F = F
+       
        
         
     }
